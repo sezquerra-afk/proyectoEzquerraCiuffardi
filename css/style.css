@@ -11,9 +11,9 @@
     display: flex;
     justify-content: left;
     margin-left: 20px;
-    
-  
-    
+    background-color:rgb(196, 196, 196) ;width: 100px;
+    font-style: oblique;
+
 }
 
 body{
@@ -95,13 +95,22 @@ header{
 .navsup{
     
     margin-top: 200px;
-    margin-left: -339px;
+    margin-left: -337px;
+    background-color: rgb(208, 124, 21);width: 100px;
+    font-style:oblique;
+    font-size: 15px;
+
   
     
     
     
 }
 
+.Integrantes{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
 
 
 
@@ -117,4 +126,11 @@ header{
     .fotos2{
         flex-direction: column;
     }
+    .fotos3{
+        flex-direction: column;
+    }
+    .fotos4{
+        flex-direction: column;
+    }
+ 
 }
