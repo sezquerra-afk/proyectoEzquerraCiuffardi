@@ -1,13 +1,19 @@
 *{
     padding: 0;
     margin: 0px;
+    box-sizing: border-box;
 }
+
+
 
 .navlat{
     
     display: flex;
     justify-content: left;
-    margin-left: -5px;
+    margin-left: 20px;
+    
+  
+    
 }
 
 body{
@@ -74,5 +80,41 @@ a{
     margin-right: 10px;
     
     margin-bottom: 20px;
+
 }
 
+
+
+header{
+    display: flex;
+    
+}
+
+
+
+.navsup{
+    
+    margin-top: 200px;
+    margin-left: -339px;
+  
+    
+    
+    
+}
+
+
+
+
+
+
+
+    
+
+@media (max-width: 450px ) {
+    .fotos {
+        flex-direction: column;
+    }
+    .fotos2{
+        flex-direction: column;
+    }
+}
