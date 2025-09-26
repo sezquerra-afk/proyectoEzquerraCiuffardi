@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    
+    margin: 0px;
 }
 
 .navlat{
@@ -21,9 +21,7 @@ a{
 
 }
 
-.Integrantes{
-    
-}
+
 
 .logo{
     width: 150px;
@@ -70,3 +68,11 @@ a{
 .fotos4{
     display: flex;
 }
+
+
+.autos10{
+    margin-right: 10px;
+    
+    margin-bottom: 20px;
+}
+
