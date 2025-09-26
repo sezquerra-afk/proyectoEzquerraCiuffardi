@@ -1,3 +1,6 @@
+
+
+
 .navlat{
     
     display: flex;
@@ -6,7 +9,7 @@
 }
 
 body{
-    background-color:rgba(72, 65, 56, 0.8);
+    background-color:rgba(17, 49, 85, 0.8);
 }
 
 
@@ -18,4 +21,50 @@ a{
 
 .Integrantes{
     
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    align-content: center;
+
+    
+    
+}
+
+
+.caja{
+    display: flex;
+    flex-direction: row;
+   
+    
+}
+
+
+.imagenes{
+    display: flex;
+    width: 400px;
+    height: 300px;
+}
+
+
+
+.fotos{
+    display: flex;
+    
+ 
+  
+}
+
+.fotos2{
+    display: flex;
+}
+
+.fotos3{
+    display: flex;
+}
+
+.fotos4{
+    display: flex;
 }
